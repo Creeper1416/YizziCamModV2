@@ -8,7 +8,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using YizziCamModV2.Comps;
 #pragma warning disable CS0618
-namespace YizziCamModV2
+namespace CAMRA MOD
 {
     [BepInPlugin(PluginInfo.GUID, PluginInfo.Name, PluginInfo.Version)]
     public class Main : BaseUnityPlugin
